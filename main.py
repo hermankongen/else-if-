@@ -1,13 +1,13 @@
 import turtle 
 
-h = turtle.Turtle()
+fun = turtle.Turtle()
 
-g = input ('skriv et tall?')
+tall = input ('skriv et tall?')
 
-a=3
+tre = 3
+
 #if statements
-
 if a ==true:
- h.circle(g) 
+ fun.circle(g) 
 else: 
  print ('prov igjen')
