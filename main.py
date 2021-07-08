@@ -5,9 +5,9 @@ h = turtle.Turtle()
 g = input ('skriv et tall?')
 
 a=3
+#if statements
 
-if a==3:
- h.circle(g)#henter varablen på linje 5
-
+if a ==true:
+ h.circle(g) 
 else: 
- print ('prov igjen')#hvis bruker skriver in feil input
+ print ('prov igjen')
